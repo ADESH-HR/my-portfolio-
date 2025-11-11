@@ -6,7 +6,7 @@
 
   [![GitHub Stars](https://img.shields.io/github/stars/ADESH-HR/my-portfolio-?style=for-the-badge&logo=github&color=00bcd4)](https://github.com/ADESH-HR/my-portfolio-)
   [![License](https://img.shields.io/badge/License-MIT-00bcd4?style=for-the-badge)](LICENSE)
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-00bcd4?style=for-the-badge&logo=vercel)](https://your-portfolio-url.com)
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-00bcd4?style=for-the-badge&logo=vercel)](https://adeshhr.netlify.app/)
   
   **🚀 A modern, animated, and responsive portfolio website showcasing my projects and skills**
   
